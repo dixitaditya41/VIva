@@ -11,6 +11,9 @@ public class add {
 
 
         System.out.println("The Sum is " + (a+b));
+        System.out.println("The Diffrence is " + (a-b));
+        
+
     }
 
 
